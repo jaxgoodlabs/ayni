@@ -9,8 +9,8 @@
 This project is an exercise in the Quechua concept of ayni. 
 
 ## Procedure
-Here’s my idea for the barn-raising modeled after [Zooniverse project builder](https://help.zooniverse.org/getting-started/):
-1. We start with a planning document - a Google doc hosted on Sensorica. The document presents this agenda and task list to prospective contributors. 
+Here’s my idea for the barn-raising, modeled after [Zooniverse project builder](https://help.zooniverse.org/getting-started/):
+1. We start with a planning document - a [Google doc](https://docs.google.com/document/u/0/) hosted on [Sensorica](https://www.sensorica.co/). The document presents this agenda and task list to prospective contributors. 
 2. We set up a Kanban board on [GitHub](github.com) or [Trello](https://trello.com/en-US) for managing tasks
 3. We set up a decision-making forum - maybe on [Loomio](https://www.loomio.org/).
 4. We draw up the blueprints - we design the site using the [Draw.io](https://app.diagrams.net/) free diagramming tool
