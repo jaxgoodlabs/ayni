@@ -2,7 +2,7 @@
 "Ayni (Quechua, also spelled Ayniy or Aini) can refer to either the concept of reciprocity or mutualism among people of the Andean mountain communities or the practice of this concept. As a noun, the law of ayni states that everything in the world is connected, and is the only commandment that rules daily life in many communities like the Q'ero. As a verb, this often refers to the cooperation between the members of a community when one member gives to another, he or she is entitled to receive something back." -[Wikipedia](https://en.wikipedia.org/wiki/Ayni)
 
 <p align="center">
-<img width="800" height="450" src="https://user-images.githubusercontent.com/32546509/93225420-3527f480-f740-11ea-8619-4f2a47a96c88.jpeg">
+<img width="90%" height="90%" src="https://user-images.githubusercontent.com/32546509/93225420-3527f480-f740-11ea-8619-4f2a47a96c88.jpeg">
 </p>
 
 ## Introduction
